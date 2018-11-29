@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">The Video Player</string>
+    <string name="ad_unit_id">ca-app-pub-3385834074911193/1809887889</string>
+    <string name="Interstitial_ad_id">ca-app-pub-3385834074911193/4479997847</string>
 </resources>
